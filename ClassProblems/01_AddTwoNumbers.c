@@ -1,7 +1,6 @@
 // 01. Write a program to add two numbers.
 
 #include <stdio.h>
-#include <conio.h>
 int main()
 {
     int a, b, c;
